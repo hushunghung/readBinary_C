@@ -1,11 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-#include "inc/COMLEV2.h"
-#include "inc/COMSET.h"
-#include "inc/COMWRK.h"
-#include "inc/MGPFILE.h"
-#include "inc/COMDYC.h"
+#include "COMLEV2.h"
+#include "COMSET.h"
+#include "COMWRK.h"
+#include "COMDYC.h"
 
 
 int main(int argc, char* argv[]){
