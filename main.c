@@ -14,7 +14,7 @@ int main(int argc, char* argv[]){
 	COMWRK_s comwrk1;
 	COMDYC_s comdyc1;
 
-	FILE *file = fopen("E:\\apfcdyna.bin","rb");
+	FILE *file = fopen("C:\\test.bin","rb");
 
 	signed int ch;
 	int timeValue;
